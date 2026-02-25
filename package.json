@@ -1,0 +1,16 @@
+{
+  "name": "recipe-book",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Recipe documentation as a HonKit book",
+  "scripts": {
+    "build": "rm -rf _book && honkit build && mkdir -p _book/ebooks && honkit epub . _book/ebooks/recipe.epub && honkit pdf . _book/ebooks/recipe.pdf",
+    "build:site": "rm -rf _book && honkit build",
+    "build:epub": "mkdir -p _book/ebooks && honkit epub . _book/ebooks/recipe.epub",
+    "build:pdf": "mkdir -p _book/ebooks && honkit pdf . _book/ebooks/recipe.pdf",
+    "serve": "honkit serve"
+  },
+  "devDependencies": {
+    "honkit": "^4.0.8"
+  }
+}
