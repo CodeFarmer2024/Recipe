@@ -4,8 +4,8 @@
 
 ## 电子书下载
 
-- EPUB：`/ebooks/recipe.epub`
-- PDF：`/ebooks/recipe.pdf`
+- EPUB：[/ebooks/recipe.epub](/ebooks/recipe.epub)
+- PDF：[/ebooks/recipe.pdf](/ebooks/recipe.pdf)
 
 发布到 GitHub Pages 后，上述路径会在站点根目录下可直接访问。
 
