@@ -1,0 +1,11 @@
+body {
+  font-family: "Noto Sans CJK SC", "Noto Sans CJK", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Zen Hei", "Noto Sans", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Noto Sans CJK SC", "Noto Sans CJK", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Zen Hei", "Noto Sans", sans-serif;
+}
+
+code, pre {
+  font-family: "Noto Sans Mono CJK SC", "Noto Sans Mono", "Fira Code", "SFMono-Regular", "Consolas", monospace;
+}

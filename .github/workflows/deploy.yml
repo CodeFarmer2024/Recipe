@@ -20,8 +20,8 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install Calibre
-        run: sudo apt-get update && sudo apt-get install -y calibre
+      - name: Install Calibre and Fonts
+        run: sudo apt-get update && sudo apt-get install -y calibre fonts-noto-cjk
 
       - name: Install Dependencies
         run: npm install

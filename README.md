@@ -43,3 +43,4 @@ npm run build:pdf
 ## 依赖说明
 
 生成 EPUB/PDF 需要系统安装 Calibre（提供 `ebook-convert` 命令）。
+另外请确保系统安装了 CJK 字体（如 Noto CJK），否则 PDF/EPUB 可能出现乱码。
