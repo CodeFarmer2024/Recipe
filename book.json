@@ -1,0 +1,9 @@
+{
+  "title": "Recipe",
+  "language": "zh-hans",
+  "root": ".",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}
